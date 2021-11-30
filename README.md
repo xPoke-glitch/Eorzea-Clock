@@ -17,4 +17,4 @@ If you want to open, edit or see the Unity project:
 
 In order to run the apllication, you can download the **EorzeaClock.rar** file, extract it and run the application: **EorzeaClock.exe**
 
-In case you will open it with Unity, you can directly test it in the Unity Editor or you can build it yourself. Mind that in this case you can't see the overaly effect.
+In case you will open it with Unity, you can directly test it in the Unity Editor or you can build it yourself. Mind that in the editor you won't see the overaly effect.
